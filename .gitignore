@@ -1,2 +1,4 @@
 A_Z Handwritten Data.csv
 train.csv
+*.log
+*.h5
